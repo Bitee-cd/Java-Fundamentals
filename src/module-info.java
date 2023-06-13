@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author bitee
+ *
+ */
+module JavaFundamentals {
+}
